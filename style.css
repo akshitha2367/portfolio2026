@@ -23,7 +23,7 @@ h3
 {
 font-family: 'Sparkly' ;
 display: inline;
-font-size: 72px;
+font-size: 3.75vw;
 color: #A289B0"
 
 }
@@ -130,4 +130,5 @@ h6
 {
     margin: 1cm;
    font-family: pixel;
+
 }
