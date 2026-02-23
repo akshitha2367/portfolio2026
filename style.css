@@ -136,12 +136,13 @@ h6
 /*<button onclick="work.html"> Back to My Works!</button> */
 
  button {
-        color: #CFB8DB;
+        background-color: #CFB8DB;
         border: 0.026vw #0B0212;
         border-radius: 0.521vw;
-        background-color: #230433;
+        color: #230433;
         padding: 0.417vw;
       }
+
 
 
 
