@@ -51,13 +51,13 @@ font-family: 'Franklin Gothic Medium';
   background-color: #195DB0;
   overflow-x: hidden;
   transition: 0.5s;
-  padding-top: 60px;
+  padding-top: 3.125vw;
 }
 
 .sidenav a {
-  padding: 8px 8px 8px 32px;
+  padding: 0.417vw 0.417vw 0.417vw 1.667vw;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 1.302vw;
   color: #340B4D;
   display: block;
   transition: 0.3s;
@@ -70,14 +70,14 @@ font-family: 'Franklin Gothic Medium';
 .sidenav .closebtn {
   position: absolute;
   top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+  right: 1.302vw;
+  font-size: 1.875vw;
+  margin-left: 2.604vw;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+@media screen and (max-height: 23.438vw) {
+  .sidenav {padding-top: 0.781vw;}
+  .sidenav a {font-size: 0.938vw;}
 }
 
 * {
@@ -91,7 +91,7 @@ body {
 
 .header {
   text-align: center;
-  padding: 32px;
+  padding: 1.667vw;
 }
 
 .row {
@@ -99,8 +99,8 @@ body {
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
-  padding: 0 4px;
-  margin: 1.5cm;
+  padding: 0 0.208vw;
+  margin: 2.953vw;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -108,11 +108,11 @@ body {
   -ms-flex: 33%; /* IE10 */
   flex: 33%;
   max-width: 33%;
-  padding: 0 5px;
+  padding: 0 0.26vw;
 }
 
 .column img {
-  margin-top: 8px;
+  margin-top: 0.417vw;
   vertical-align: middle;
   width: 100%;
 }
@@ -128,7 +128,8 @@ h5
 }
 h6
 {
-    margin: 1cm;
-   font-family: pixel;
+    margin: 1.968vw;
+   font-family: Georgia ;
 
 }
+
